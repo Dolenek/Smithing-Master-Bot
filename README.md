@@ -1,6 +1,6 @@
 # Smithing Master Bot
 
-<img src="Smithing Master Bot/BigEnemy.png" alt="Big Enemy" width="300"/>
+<img src="Smithing Master Bot/BigEnemy.PNG" alt="Big Enemy" width="300"/>
 
 ## Popis
 
